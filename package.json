@@ -1,5 +1,5 @@
 {
-  "name": "typescriptpkgdemo",
+  "name": "@84961/typescriptpkgdemo",
   "version": "1.0.3",
   "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
@@ -36,6 +36,6 @@
     "node": ">=10"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@84961"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
