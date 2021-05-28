@@ -22,6 +22,6 @@ jobs:
         npm test      
     - name: publish
       env:
-        NODE_AUTH_TOKEN: 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
+        NODE_AUTH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       run: |
         npm run deploy
