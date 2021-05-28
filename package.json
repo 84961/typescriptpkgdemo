@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-starter",
+  "name": "typescriptpkgdemo",
   "version": "1.0.3",
   "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/84961/typescript-package-starter.git"
+    "url": "git+https://github.com/84961/typescriptpkgdemo.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.12",
